@@ -1,4 +1,4 @@
-                             #POBREZA EN MEXICO
+#POBREZA EN MEXICO
 
 * Desde 2018, el CONEVAL ha informado acerca de las adecuaciones que actualizan algunos elementos de 
 la metodología para la medición multidimensional de la pobreza, derivadas de las modificaciones 
