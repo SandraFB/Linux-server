@@ -18,10 +18,10 @@ By the end of this module, you should be able to create a Git repo, use common G
 
 A [Git repository](https://www.atlassian.com/git/tutorials/setting-up-a-repository) is a virtual storage of your project. It allows you to save versions of your code, which you can access when needed. 
 
-## Initializing a new repository: git init
+## Initializing a new repository: git init
 
 To create a new repo, you'll use the *git init* command. 'git init' is a one-time command you use during the initial setup of a new repo. Executing this command will create a new '.git' subdirectory in your current working directory. This will also create a new main branch. 
 
-## Versioning an existing project with a new git repository
+## Versioning an existing project with a new git repository
 
 This example assumes you already have an existing project folder that you would like to create a repo within. You'll first cd to the root project folder and then execute the git init command.
